@@ -1,0 +1,10 @@
+controller\Historias.class
+model\conexion.class
+model\Historias\HistoriasVo.class
+model\Mensajes\MensajeVo.class
+controller\Mensajes.class
+model\Usuario\UsuarioVo.class
+controller\Usuario.class
+model\Usuario\UsuarioDao.class
+model\Mensajes\MensajeDao.class
+model\Historias\HistoriasDao.class

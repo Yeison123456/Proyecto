@@ -1,0 +1,118 @@
+
+body{
+    margin: 0;
+    font-family: sans-serif;
+    background-image: url(../img/fondo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.login1{
+    display: flex;
+}
+
+.login {
+  background:  rgba(7, 7, 7, 0.699);
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.5);
+  text-align: center;
+  width: 400px;
+  margin-top: 15%;
+  margin-left: 18%;
+}
+
+h2 {
+  color: #fff;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+
+
+.login input {
+    width: 90%;
+    padding: 10px 0;
+    font-size: 16px;
+    color: #fff;
+    margin-bottom: 30px;
+    border: none;
+    border-bottom: 1px solid #bf24a5;
+    outline:none;
+    background: transparent;
+    margin-top: 10px;
+}
+
+.login .entrar  {
+    text-decoration: none;
+    border: none;
+    color: #f7f7f7;
+    background: #bc4e9c;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #f80759, #bc4e9c);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #f80759, #bc4e9c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 195px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.login .atras  {
+    text-decoration: none;
+    border: none;
+    color: #ffffff;
+    background: #bc4e9c;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #f80759, #bc4e9c);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #f80759, #bc4e9c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.imagenes{
+    display: flex;
+}
+
+.imagenes .img1{
+    height: 45px;
+    margin-top: -550px;
+    margin-left: 1100px;
+}
+
+.imagenes .img2{
+    height: 50px;
+    margin-top: -527px;
+    margin-left: -500px;
+}
+
+.imagenes .img3{
+    height: 120px;
+    margin-top: -490px;
+    margin-left: -450px;
+}
+
+.imagenes .img4{
+    height: 70px;
+    margin-top: -350px;
+    margin-left: -450px;
+}
+.imagenes .img5{
+    height: 300px;
+    margin-top: -275px;
+    margin-left: -490px;
+}
+.imagenes .img6{
+    height: 60px;
+    margin-top: -5px;
+    margin-left: -500px;
+}
+.imagenes .img7{
+    height: 60px;
+    margin-top: 35px;
+    margin-left: -550px;
+}
+
+/*{}*/
